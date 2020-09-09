@@ -22,6 +22,7 @@
 * Kaggle: [Aczy156](https://www.kaggle.com/aczy156)
 * GitLab: [Aczy156](https://gitlab.com/Aczy156)
 * Twitter: [Aczy156](https://twitter.com/aczy156)
+* Gmail: [Ranfei Chen](mailto:aczy156crf@gmail.com)
 * LinkedIn: [RanFei Chen](https://www.linkedin.com/in/%E5%86%89%E9%A3%9E-%E9%99%88-9aa2b51a8/) 
 
 </td></tr>
