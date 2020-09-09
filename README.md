@@ -1,7 +1,7 @@
 ### Hi there 👋👋👋
 
 <table>
-<tr><td valign="top" width="33%">
+<tr><td valign="top" width="45%">
 
 ### What I am doing
 
@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - ⚡ I'm participating in the competition Kaggle.
 - 😄 I'm interested in algorithm,  programming.
-</td><td valign="top" width="34%">
+</td><td valign="top" width="30%">
 
 ### Blog
 
 * Personal site: [Uu-i 小站](http://aczy156.xyz/)
 * CSDN Blog: [Aczy156的博客](https://blog.csdn.net/qq_43345204?t=1)
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Contact me
 
@@ -30,11 +30,11 @@
 
 ### About Aczy156's Github
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aczy156&show_icons=true&theme=dark)
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="30%">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aczy156&theme=dark)
 
