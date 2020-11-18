@@ -1,29 +1,27 @@
 ### Hi there 👋👋👋
 
 <table>
-<tr><td valign="top" width="45%">
+<tr><td valign="top" width="55%">
 
 ### What I am doing
 
-- 🔭 I’m studying at CSU(Central South University).
+- 🔭 I’m studying at CSU(Central South University, 2018 undergraduate).
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - ⚡ I'm participating in the competition Kaggle.
 - 😄 I'm interested in algorithm,  programming.
-</td><td valign="top" width="30%">
+</td><td valign="top" width="25%">
 
 ### Blog
 
-* Personal site: [Uu-i 小站](http://aczy156.xyz/)
+* Personal site: [Uu-i 小站](http://crf.codes/)
 * CSDN Blog: [Aczy156的博客](https://blog.csdn.net/qq_43345204?t=1)
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 ### Contact me
 
 * Kaggle: [Aczy156](https://www.kaggle.com/aczy156)
-* GitLab: [Aczy156](https://gitlab.com/Aczy156)
-* Twitter: [Aczy156](https://twitter.com/aczy156)
 * Gmail: [Ranfei Chen](mailto:aczy156crf@gmail.com)
-* LinkedIn: [RanFei Chen](https://www.linkedin.com/in/%E5%86%89%E9%A3%9E-%E9%99%88-9aa2b51a8/) 
+* Telegram: [Aczy156](https://t.me/Aczy156)
 
 </td></tr>
 </table>
