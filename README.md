@@ -7,7 +7,7 @@
 
 - 🔭 I’m studying at CSU(Central South University, 2018 undergraduate).
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
-- ⚡ I'm participating in the competition Kaggle.
+- ⚡ I'm participating in the competition Kaggle and Luogu.
 - 😄 I'm interested in algorithm,  programming.
 </td><td valign="top" width="25%">
 
@@ -19,6 +19,7 @@
 
 ### Contact me
 
+* 洛谷：[Aczy156](https://www.luogu.com.cn/user/143017)
 * Kaggle: [Aczy156](https://www.kaggle.com/aczy156)
 * Gmail: [Ranfei Chen](mailto:aczy156crf@gmail.com)
 * Telegram: [Aczy156](https://t.me/Aczy156)
