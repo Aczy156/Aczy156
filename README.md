@@ -1,21 +1,21 @@
 ### Hi there 👋👋👋
 
 <table>
-<tr><td valign="top" width="55%">
+<tr><td valign="top" width="45%">
 
 ### What I am doing
 
 - 🔭 I’m studying at CSU(Central South University, 2018 undergraduate).
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- ⚡ I'm participating in the competition Kaggle and Luogu.
+- 🌱 I’m currently learning algorithm.
+- ⚡ I'm participating in competition on Luogu and codeforce.
 - 😄 I'm interested in algorithm,  programming.
 </td><td valign="top" width="25%">
 
 ### Blog
 
-* Personal site: [Uu-i 小站](http://crf.codes/)
+* Personal site: [Uu-i 小站](http://chenranfei.online/)
 * CSDN Blog: [Aczy156的博客](https://blog.csdn.net/qq_43345204?t=1)
-</td><td valign="top" width="20%">
+</td><td valign="top" width="30%">
 
 ### Contact me
 
