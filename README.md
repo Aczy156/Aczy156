@@ -1,21 +1,22 @@
 ### Hi there 👋👋👋
 
 <table>
-<tr><td valign="top" width="45%">
+<tr><td valign="top" width="50%">
 
 ### What I am doing
 
-- 🔭 I’m studying at CSU(Central South University, 2018 undergraduate).
-- 🌱 I’m currently learning algorithm.
-- ⚡ I'm participating in competition on Luogu and codeforce.
-- 😄 I'm interested in algorithm,  programming.
-</td><td valign="top" width="25%">
+- 🔭 I am studying at CSU(Central South University, 2018 undergraduate).
+- 👓 I will study for PhD at ICT(Institute of Computing Technology, Chinese Academy of Sciences, 2022 PhD)
+- 🌱 I am currently learning algorithm.
+- ⚡ I am participating in competition on Luogu and codeforce.
+- 😄 I am interested in algorithm,  programming.
+</td><td valign="top" width="22%">
 
 ### Blog
 
-* Personal site: [Uu-i 小站](http://chenranfei.online/)
+* Personal site: [Aczy156](http://chenranfei.online/)
 * CSDN Blog: [Aczy156的博客](https://blog.csdn.net/qq_43345204?t=1)
-</td><td valign="top" width="30%">
+</td><td valign="top" width="28%">
 
 ### Contact me
 
