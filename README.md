@@ -5,9 +5,9 @@
 
 ### What I am doing
 
-- 🔭 I am studying at CSU(Central South University, 2018 undergraduate).
-- 👓 I will study for PhD at ICT(Institute of Computing Technology, Chinese Academy of Sciences, 2022 PhD)
-- 🌱 I am currently learning algorithm.
+- 🔭 I am studying at [CSU](http://csu.edu.cn/)(Central South University, 2018 undergraduate).
+- 👓 I will study for PhD at pFind(http://pfind.ict.ac.cn/), [ICT](http://www.ict.ac.cn/)(Institute of Computing Technology, Chinese Academy of Sciences, 2022 PhD)
+- 🌱 I am currently learning algorithm and computational proteomics.
 - ⚡ I am participating in competition on Luogu and codeforce.
 - 😄 I am interested in algorithm,  programming.
 </td><td valign="top" width="22%">
