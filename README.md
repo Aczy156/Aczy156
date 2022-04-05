@@ -6,7 +6,7 @@
 ### What I am doing
 
 - 🔭 I am studying at [CSU](http://csu.edu.cn/)(Central South University, 2018 undergraduate).
-- 👓 I will study for PhD at [pFind](http://pfind.ict.ac.cn/), [ICT](http://www.ict.ac.cn/)(Institute of Computing Technology, Chinese Academy of Sciences, 2022 PhD)
+- 👓 I will study for PhD at [pFind](http://pfind.org/), [ICT](http://www.ict.ac.cn/)(Institute of Computing Technology, Chinese Academy of Sciences, 2022 PhD)
 - 🌱 I am currently learning algorithm and computational proteomics.
 - ⚡ I am participating in competition on Luogu and codeforce.
 - 😄 I am interested in algorithm,  programming.
@@ -14,7 +14,7 @@
 
 ### Blog
 
-* Personal site: [Aczy156](http://chenranfei.online/)
+* Personal site: [Aczy156](https://chenranfei.site/)
 * CSDN Blog: [Aczy156的博客](https://blog.csdn.net/qq_43345204?t=1)
 </td><td valign="top" width="28%">
 
